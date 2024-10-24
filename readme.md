@@ -1,6 +1,6 @@
 # 💫 About Me:  
 👋 Hii there! I am Prem Jaina, a passionate full stack developer with a love for coding and problem-solving. I enjoy building scalable applications, learning new technologies, and contributing to the open-source community. My areas of interest include:<br><br>💻 Web Development: Crafting responsive and user-friendly web applications with modern front-end and back-end technologies.<br>⚙️ Programming Languages: Proficient in JavaScript, Python, and C++, with a growing interest in exploring more languages and paradigms.<br>🛠 Frameworks & Tools: Working with React.js, Node.js, and Express for full-stack development. Skilled in version control with Git and GitHub.<br>🔍 Continuous Learning: Always eager to learn and apply new frameworks, libraries, and best practices to create efficient and innovative solutions.<br>Currently, I’m deepening my knowledge in DevOps and containerization with Docker and Kubernetes.<br><br>🚀 Feel free to explore my repositories and get in touch if you're interested in collaborating on exciting projects!  
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/premjaina/) 
